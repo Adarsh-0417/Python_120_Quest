@@ -86,7 +86,3 @@ By completing all 120 questions, learners will gain practical experience with co
 ## ⭐ Contributing
 
 Suggestions, improvements, and additional practice questions are welcome through pull requests and issues.
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
